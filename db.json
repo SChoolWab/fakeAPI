@@ -12,22 +12,24 @@
       "phone": "01799008442",
       "join_date": "1 jan, 2015",
       "join_class": "nine",
-      "gurdian": {
-        "father": {
+      "gurdian": [
+        {
+          "type": "father",
           "name": "Abdul Hakim",
           "dob": "29 nov, 1975",
           "nid": 197525464146435,
           "work": "farmar",
           "phone": "01740515609"
         },
-        "mother": {
+        {
+          "type": "mother",
           "name": "Sorifa Khatun",
           "dob": "29 nov, 1985",
           "nid": 198525464146435,
           "work": "housewife",
           "phone": "01740515609"
         },
-        "other": {
+        {
           "type": "uncle",
           "name": "Hazrat Ali",
           "dob": "29 nov, 1969",
@@ -35,7 +37,7 @@
           "work": "Meletary",
           "phone": "01740515609"
         }
-      }
+      ]
     },
     {
       "_id": 2,
@@ -73,20 +75,6 @@
           "phone": "01740515609"
         }
       }
-    }
-  ],
-  "posts": [
-    {
-      "id": 3,
-      "title": "Post 1"
-    },
-    {
-      "id": 4,
-      "title": "Post 2"
-    },
-    {
-      "id": 5,
-      "title": "Post 3"
     }
   ]
 }
