@@ -1,4 +1,82 @@
 {
+  "students": [
+    {
+      "_id": 1,
+      "name": "Sofiqul Islam",
+      "avater": "img/students/st-01.jpg",
+      "dob": "29 nov, 2000",
+      "birth_id": 554535131355,
+      "address1": "Poshchim Bongram",
+      "address2": "Islam Ganti",
+      "city": "Pabna",
+      "post_code": 6600,
+      "phone": "01799008442",
+      "join_date": "1 jan, 2015",
+      "join_class": "nine",
+      "gurdian": {
+        "father": {
+          "name": "Abdul Hakim",
+          "dob": "29 nov, 1975",
+          "nid": 197525464146435,
+          "work": "farmar",
+          "phone": "01740515609"
+        },
+        "mother": {
+          "name": "Sorifa Khatun",
+          "dob": "29 nov, 1985",
+          "nid": 198525464146435,
+          "work": "housewife",
+          "phone": "01740515609"
+        },
+        "other": {
+          "type": "uncle",
+          "name": "Hazrat Ali",
+          "dob": "29 nov, 1969",
+          "nid": 196925464146435,
+          "work": "Meletary",
+          "phone": "01740515609"
+        }
+      }
+    },
+    {
+      "_id": 2,
+      "name": "Ahsan Habib",
+      "avater": "./img/students/st-01.jpg",
+      "dob": "21 June, 1999",
+      "birth_id": 1999535131355,
+      "address1": "Notun Bazar",
+      "address2": "Ataikula",
+      "city": "Pabna",
+      "post_code": 6601,
+      "phone": "01794171140",
+      "join_date": "10 jan, 2015",
+      "join_class": "nine",
+      "gurdian": {
+        "father": {
+          "name": "Abdul Hakim",
+          "dob": "29 nov, 1975",
+          "nid": 197525464146435,
+          "work": "farmar",
+          "phone": "01740515609"
+        },
+        "mother": {
+          "name": "Sorifa Khatun",
+          "dob": "29 nov, 1985",
+          "nid": 198525464146435,
+          "work": "housewife",
+          "phone": "01740515609"
+        },
+        "other": {
+          "type": "uncle",
+          "name": "Hazrat Ali",
+          "dob": "29 nov, 1969",
+          "nid": 196925464146435,
+          "work": "Meletary",
+          "phone": "01740515609"
+        }
+      }
+    }
+  ],
   "posts": [
     {
       "id": 1,
@@ -14,6 +92,3 @@
     }
   ]
 }
-/*
-https: //my-json-server.typicode.com/<username>/<repositori name>
-*/
