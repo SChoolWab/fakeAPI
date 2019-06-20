@@ -3,7 +3,6 @@
     {
       "_id": 1,
       "name": "Sofiqul Islam",
-      "avater": "img/students/st-01.jpg",
       "dob": "29 nov, 2000",
       "birth_id": 554535131355,
       "address1": "Poshchim Bongram",
@@ -41,7 +40,6 @@
     {
       "_id": 2,
       "name": "Ahsan Habib",
-      "avater": "./img/students/st-01.jpg",
       "dob": "21 June, 1999",
       "birth_id": 1999535131355,
       "address1": "Notun Bazar",
@@ -79,15 +77,15 @@
   ],
   "posts": [
     {
-      "id": 1,
+      "id": 3,
       "title": "Post 1"
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "Post 2"
     },
     {
-      "id": 3,
+      "id": 5,
       "title": "Post 3"
     }
   ]
